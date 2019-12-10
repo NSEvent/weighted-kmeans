@@ -10,3 +10,7 @@ Tested with Python 3.7.5 in Linux environment
 ```python
 pip install -r requirements.txt
 ```
+## Run
+```python
+python kmeans.py
+```
