@@ -12,5 +12,5 @@ pip install -r requirements.txt
 ```
 ## Run
 ```python
-python kmeans.py
+python3 kmeans.py
 ```
