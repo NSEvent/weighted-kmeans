@@ -6,6 +6,9 @@ The data represents the location of a client and the priority (weight) that the 
 
 Tested with Python 3.7.5 in Linux environment
 
+# Example
+![](https://github.com/kvntng17/weighted-kmeans/blob/master/results/N%3D4-grouped-with-center.png)
+
 ## Install required dependencies
 ```python
 pip install -r requirements.txt
